@@ -1,0 +1,5 @@
+{
+  "name": "auto shift app2",
+  "description": "スタッフの希望シフトと事前登録規制を軸にした月間シフト自動生成システム。制約充足問題としてシフトを最適化する。",
+  "requestFramePermissions": []
+}
